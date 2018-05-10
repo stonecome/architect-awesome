@@ -589,7 +589,7 @@ KMP：Knuth-Morris-Pratt算法（简称KMP）
 * [《轻松理解MYSQL MVCC 实现机制》](https://blog.csdn.net/whoamiyang/article/details/51901888)
 
 	* 通过隐藏版本列来实现 MVCC 控制，一列记录创建时间、一列记录删除时间，这里的时间
-	* 每次只操作比当前版本小（或等于）的 行。
+	* 每次只操作比当前版本小（或等于）的行。
 	
 
 
@@ -768,6 +768,7 @@ TODO
 
 ## 责任链模式
 TODO
+虚函数的运用
 
 ## MVC
 * [《MVC 模式》](http://www.runoob.com/design-pattern/mvc-pattern.html)
